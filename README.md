@@ -6,4 +6,3 @@
 
 https://www.crazyapps.club/
 
-移除MDM流動裝置管理 : https://www.crazyapps.club/links/bypassmdm/
