@@ -1,3 +1,11 @@
 [
-{"stop":"18492910339410B1","name_en":"CHUK YUEN ESTATE BUS TERMINUS","name_tc":"竹園邨總站","name_sc":"竹园邨总站","lat":"22.345415","long":"114.192640"},{"stop":"9ED7E93749ABAE67","name_en":"RAINBOW PRIMARY SCHOOL","name_tc":"天虹小學","name_sc":"天虹小学","lat":"22.345076","long":"114.190023"},{"stop":"9583BCF159B682BA","name_en":"MA CHAI HANG RECREATION GROUND","name_tc":"馬仔坑遊樂場","name_sc":"马仔坑游乐场","lat":"22.344296","long":"114.187763"},{"stop":"D360B3EBF155C15A","name_en":"MORSE PARK","name_tc":"摩士公園","name_sc":"摩士公园","lat":"22.339876","long":"114.189506"},
+    {
+        "stop" : "18492910339410B1",
+        "name_en" : "CHUK YUEN ESTATE BUS TERMINUS",
+        "name_tc" : "竹園邨總站"
+        "name_sc" : "竹园邨总站",
+        "lat" : "22.345415",
+        "long" : "114.192640",
+        
+    },
 ]
