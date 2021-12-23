@@ -51,7 +51,15 @@
             center: { lat: 22.302711, lng: -114.177216 },
           });
           new google.maps.KmlLayer({
-            url: "https://raw.githubusercontent.com/crazyappshk/site/main/data/cycmap/CYCTRACK.kml",
+            url: "https://raw.githubusercontent.com/crazyappshk/site/main/data/CYCTRACK.kml",
+            map: e,
+          });
+          new google.maps.KmlLayer({
+            url: "https://raw.githubusercontent.com/crazyappshk/site/main/data/CYCRAMP.kml",
+            map: e,
+          });
+          new google.maps.KmlLayer({
+            url: "https://raw.githubusercontent.com/crazyappshk/site/main/data/CYCPARKSPACE.kml",
             map: e,
           });
         }
