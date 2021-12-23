@@ -6,6 +6,11 @@
 	<SimpleField name="SHAPE_Length" type="string"></SimpleField>
 	<SimpleField name="OBJECTID" type="string"></SimpleField>
 </Schema>
+<Schema name="CYCRAMP" id="CYCRAMP">
+	<SimpleField name="OWNER" type="string"></SimpleField>
+	<SimpleField name="SHAPE_Length" type="string"></SimpleField>
+	<SimpleField name="OBJECTID" type="string"></SimpleField>
+</Schema>
 
 <Folder><name>CYCRAMP</name>
   <Placemark>
