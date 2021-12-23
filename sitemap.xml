@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://www.crazyapps.club/supportus/</loc>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2021-12-24</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -16,7 +16,7 @@
 </url>
 <url>
 	<loc>https://www.crazyapps.club/support/</loc>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2021-12-24</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -34,7 +34,7 @@
 </url>
 <url>
 	<loc>https://www.crazyapps.club/update/</loc>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2021-12-24</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -52,7 +52,7 @@
 </url>
 <url>
 	<loc>https://www.crazyapps.club/privacychinese/</loc>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2021-12-24</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -66,7 +66,7 @@
 </url>
 <url>
 	<loc>https://www.crazyapps.club/privacy/</loc>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2021-12-24</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -80,7 +80,7 @@
 </url>
 <url>
 	<loc>https://www.crazyapps.club/morsetranslate/</loc>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2021-12-24</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -114,7 +114,7 @@
 </url>
 <url>
 	<loc>https://www.crazyapps.club/404/</loc>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2021-12-24</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -132,7 +132,7 @@
 </url>
 <url>
 	<loc>https://www.crazyapps.club/bypassmdm/</loc>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2021-12-24</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -186,78 +186,6 @@
 	<image:image>
 	<image:loc>https://www.crazyapps.club/img/螢幕截圖%202021-12-14%20下午7.06.41.png</image:loc>
 	<image:title>螢幕截圖 2021 12-14 下午7.06.41</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.crazyapps.club/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.crazyapps.club/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://www.crazyapps.club/hktvplayer/</loc>
-	<lastmod>2021-12-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://www.crazyapps.club/img/58b0750e917ef9a415f7404e530acbbe.jpg.png</image:loc>
-	<image:title>58b0750e917ef9a415f7404e530acbbe</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.crazyapps.club/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.crazyapps.club/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://www.crazyapps.club/sharetimer/</loc>
-	<lastmod>2021-12-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://www.crazyapps.club/img/58b0750e917ef9a415f7404e530acbbe.jpg.png</image:loc>
-	<image:title>58b0750e917ef9a415f7404e530acbbe</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.crazyapps.club/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.crazyapps.club/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://www.crazyapps.club/sbrowser/</loc>
-	<lastmod>2021-12-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://www.crazyapps.club/img/58b0750e917ef9a415f7404e530acbbe.jpg.png</image:loc>
-	<image:title>58b0750e917ef9a415f7404e530acbbe</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.crazyapps.club/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.crazyapps.club/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://www.crazyapps.club/mynamecard/</loc>
-	<lastmod>2021-12-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://www.crazyapps.club/img/58b0750e917ef9a415f7404e530acbbe.jpg.png</image:loc>
-	<image:title>58b0750e917ef9a415f7404e530acbbe</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://www.crazyapps.club/img/</image:loc>
