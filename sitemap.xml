@@ -202,16 +202,12 @@
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://www.crazyapps.club/img/sync_timer_1200x628.png</image:loc>
-	<image:title>sync_timer_1200x628</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.crazyapps.club/img/sync_timer_1080x1920.png</image:loc>
-	<image:title>sync_timer_1200x628</image:title>
-	</image:image>
-	<image:image>
 	<image:loc>https://www.crazyapps.club/img/1242x2208bb.png</image:loc>
 	<image:title>1242x2208bb</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.crazyapps.club/img/881af3199ee320243c3edd1c8456f14a.jpg.png</image:loc>
+	<image:title>881af3199ee320243c3edd1c8456f14a</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://www.crazyapps.club/img/1242x2208bb-1.png</image:loc>
