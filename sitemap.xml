@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://www.crazyapps.club/supportus/</loc>
-	<lastmod>2022-02-03</lastmod>
+	<lastmod>2022-02-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -16,7 +16,7 @@
 </url>
 <url>
 	<loc>https://www.crazyapps.club/support/</loc>
-	<lastmod>2022-02-03</lastmod>
+	<lastmod>2022-02-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -34,7 +34,7 @@
 </url>
 <url>
 	<loc>https://www.crazyapps.club/update/</loc>
-	<lastmod>2022-02-03</lastmod>
+	<lastmod>2022-02-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -52,7 +52,7 @@
 </url>
 <url>
 	<loc>https://www.crazyapps.club/privacychinese/</loc>
-	<lastmod>2022-02-03</lastmod>
+	<lastmod>2022-02-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -66,7 +66,7 @@
 </url>
 <url>
 	<loc>https://www.crazyapps.club/privacy/</loc>
-	<lastmod>2022-02-03</lastmod>
+	<lastmod>2022-02-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -80,7 +80,7 @@
 </url>
 <url>
 	<loc>https://www.crazyapps.club/morsetranslate/</loc>
-	<lastmod>2022-02-03</lastmod>
+	<lastmod>2022-02-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -114,7 +114,7 @@
 </url>
 <url>
 	<loc>https://www.crazyapps.club/404/</loc>
-	<lastmod>2022-02-03</lastmod>
+	<lastmod>2022-02-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -132,7 +132,7 @@
 </url>
 <url>
 	<loc>https://www.crazyapps.club/bypassmdm/</loc>
-	<lastmod>2022-02-03</lastmod>
+	<lastmod>2022-02-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -197,31 +197,45 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://www.crazyapps.club/goodcalcutor/</loc>
-	<lastmod>2022-02-03</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://www.crazyapps.club/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.crazyapps.club/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
 	<loc>https://www.crazyapps.club/synctimer/</loc>
-	<lastmod>2022-02-03</lastmod>
+	<lastmod>2022-02-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://www.crazyapps.club/img/sync_timer_1200x628.png</image:loc>
+	<image:title>sync_timer_1200x628</image:title>
+	</image:image>
 	<image:image>
 	<image:loc>https://www.crazyapps.club/img/sync_timer_1080x1920.png</image:loc>
 	<image:title>sync_timer_1200x628</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.crazyapps.club/img/sync_timer_1200x628.png</image:loc>
-	<image:title>sync_timer_1200x628</image:title>
+	<image:loc>https://www.crazyapps.club/img/1242x2208bb.png</image:loc>
+	<image:title>1242x2208bb</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.crazyapps.club/img/1242x2208bb-1.png</image:loc>
+	<image:title>1242x2208bb 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.crazyapps.club/img/1242x2208bb-4.png</image:loc>
+	<image:title>1242x2208bb 4</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.crazyapps.club/img/1284x2778bb.png</image:loc>
+	<image:title>1284x2778bb</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.crazyapps.club/img/1284x2778bb-1.png</image:loc>
+	<image:title>1284x2778bb 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.crazyapps.club/img/1284x2778bb-2.png</image:loc>
+	<image:title>1284x2778bb 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.crazyapps.club/img/1284x2778bb-4.png</image:loc>
+	<image:title>1284x2778bb 4</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://www.crazyapps.club/img/</image:loc>
